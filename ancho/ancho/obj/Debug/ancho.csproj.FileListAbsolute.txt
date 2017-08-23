@@ -1,0 +1,8 @@
+c:\users\aprendiz\documents\visual studio 2012\Projects\ancho\ancho\bin\Debug\ancho.exe.config
+c:\users\aprendiz\documents\visual studio 2012\Projects\ancho\ancho\bin\Debug\ancho.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\ancho\ancho\bin\Debug\ancho.pdb
+c:\users\aprendiz\documents\visual studio 2012\Projects\ancho\ancho\obj\Debug\ancho.Form1.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\ancho\ancho\obj\Debug\ancho.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\ancho\ancho\obj\Debug\ancho.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2012\Projects\ancho\ancho\obj\Debug\ancho.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\ancho\ancho\obj\Debug\ancho.pdb

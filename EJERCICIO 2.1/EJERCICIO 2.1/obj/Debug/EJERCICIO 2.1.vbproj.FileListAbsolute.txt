@@ -1,0 +1,10 @@
+c:\users\aprendiz\documents\visual studio 2012\Projects\EJERCICIO 2.1\EJERCICIO 2.1\bin\Debug\EJERCICIO 2.1.exe.config
+c:\users\aprendiz\documents\visual studio 2012\Projects\EJERCICIO 2.1\EJERCICIO 2.1\obj\Debug\EJERCICIO_2._1.FORM1.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\EJERCICIO 2.1\EJERCICIO 2.1\obj\Debug\EJERCICIO_2._1.Resources.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\EJERCICIO 2.1\EJERCICIO 2.1\obj\Debug\EJERCICIO 2.1.vbproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2012\Projects\EJERCICIO 2.1\EJERCICIO 2.1\bin\Debug\EJERCICIO 2.1.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\EJERCICIO 2.1\EJERCICIO 2.1\bin\Debug\EJERCICIO 2.1.pdb
+c:\users\aprendiz\documents\visual studio 2012\Projects\EJERCICIO 2.1\EJERCICIO 2.1\bin\Debug\EJERCICIO 2.1.xml
+c:\users\aprendiz\documents\visual studio 2012\Projects\EJERCICIO 2.1\EJERCICIO 2.1\obj\Debug\EJERCICIO 2.1.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\EJERCICIO 2.1\EJERCICIO 2.1\obj\Debug\EJERCICIO 2.1.xml
+c:\users\aprendiz\documents\visual studio 2012\Projects\EJERCICIO 2.1\EJERCICIO 2.1\obj\Debug\EJERCICIO 2.1.pdb

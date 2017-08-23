@@ -1,0 +1,9 @@
+c:\users\aprendiz\documents\visual studio 2012\Projects\promedio de 20 notas1\promedio de 20 notas1\bin\Debug\promedio de 20 notas1.exe.config
+c:\users\aprendiz\documents\visual studio 2012\Projects\promedio de 20 notas1\promedio de 20 notas1\obj\Debug\promedio de 20 notas1.csprojResolveAssemblyReference.cache
+c:\users\aprendiz\documents\visual studio 2012\Projects\promedio de 20 notas1\promedio de 20 notas1\obj\Debug\promedio_de_20_notas1.Form1.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\promedio de 20 notas1\promedio de 20 notas1\obj\Debug\promedio_de_20_notas1.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\promedio de 20 notas1\promedio de 20 notas1\obj\Debug\promedio de 20 notas1.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2012\Projects\promedio de 20 notas1\promedio de 20 notas1\bin\Debug\promedio de 20 notas1.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\promedio de 20 notas1\promedio de 20 notas1\bin\Debug\promedio de 20 notas1.pdb
+c:\users\aprendiz\documents\visual studio 2012\Projects\promedio de 20 notas1\promedio de 20 notas1\obj\Debug\promedio de 20 notas1.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\promedio de 20 notas1\promedio de 20 notas1\obj\Debug\promedio de 20 notas1.pdb

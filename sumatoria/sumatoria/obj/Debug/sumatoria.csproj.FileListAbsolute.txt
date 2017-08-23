@@ -1,0 +1,9 @@
+c:\users\aprendiz\documents\visual studio 2012\Projects\sumatoria\sumatoria\bin\Debug\sumatoria.exe.config
+c:\users\aprendiz\documents\visual studio 2012\Projects\sumatoria\sumatoria\bin\Debug\sumatoria.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\sumatoria\sumatoria\bin\Debug\sumatoria.pdb
+c:\users\aprendiz\documents\visual studio 2012\Projects\sumatoria\sumatoria\obj\Debug\sumatoria.csprojResolveAssemblyReference.cache
+c:\users\aprendiz\documents\visual studio 2012\Projects\sumatoria\sumatoria\obj\Debug\sumatoria.Form1.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\sumatoria\sumatoria\obj\Debug\sumatoria.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\sumatoria\sumatoria\obj\Debug\sumatoria.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2012\Projects\sumatoria\sumatoria\obj\Debug\sumatoria.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\sumatoria\sumatoria\obj\Debug\sumatoria.pdb

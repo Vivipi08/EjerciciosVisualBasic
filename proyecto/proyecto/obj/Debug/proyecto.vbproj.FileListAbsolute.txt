@@ -1,0 +1,12 @@
+c:\users\aprendiz\documents\visual studio 2012\Projects\proyecto\proyecto\bin\Debug\proyecto.exe.config
+c:\users\aprendiz\documents\visual studio 2012\Projects\proyecto\proyecto\bin\Debug\proyecto.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\proyecto\proyecto\bin\Debug\proyecto.pdb
+c:\users\aprendiz\documents\visual studio 2012\Projects\proyecto\proyecto\bin\Debug\proyecto.xml
+c:\users\aprendiz\documents\visual studio 2012\Projects\proyecto\proyecto\obj\Debug\proyecto.acceso.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\proyecto\proyecto\obj\Debug\proyecto.cambiarcontraseña.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\proyecto\proyecto\obj\Debug\proyecto.menu.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\proyecto\proyecto\obj\Debug\proyecto.Resources.resources
+c:\users\aprendiz\documents\visual studio 2012\Projects\proyecto\proyecto\obj\Debug\proyecto.vbproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2012\Projects\proyecto\proyecto\obj\Debug\proyecto.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\proyecto\proyecto\obj\Debug\proyecto.xml
+c:\users\aprendiz\documents\visual studio 2012\Projects\proyecto\proyecto\obj\Debug\proyecto.pdb

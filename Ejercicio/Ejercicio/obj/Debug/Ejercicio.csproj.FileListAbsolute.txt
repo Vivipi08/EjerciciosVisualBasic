@@ -1,0 +1,9 @@
+C:\Users\Aprendiz\Documents\Viviana\Ejercicio\Ejercicio\bin\Debug\Ejercicio.exe.config
+C:\Users\Aprendiz\Documents\Viviana\Ejercicio\Ejercicio\bin\Debug\Ejercicio.exe
+C:\Users\Aprendiz\Documents\Viviana\Ejercicio\Ejercicio\bin\Debug\Ejercicio.pdb
+C:\Users\Aprendiz\Documents\Viviana\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Documents\Viviana\Ejercicio\Ejercicio\obj\Debug\Ejercicio.Form1.resources
+C:\Users\Aprendiz\Documents\Viviana\Ejercicio\Ejercicio\obj\Debug\Ejercicio.Properties.Resources.resources
+C:\Users\Aprendiz\Documents\Viviana\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Documents\Viviana\Ejercicio\Ejercicio\obj\Debug\Ejercicio.exe
+C:\Users\Aprendiz\Documents\Viviana\Ejercicio\Ejercicio\obj\Debug\Ejercicio.pdb
